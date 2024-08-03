@@ -1,0 +1,116 @@
+{
+	"TargetList": [
+		{
+			"Name": "LAB",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -7,
+				"y": 0.00,
+				"z": -5
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "MainEntrance",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.00,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ECDep",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -20,
+				"y": 0.00,
+				"z": -9
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Office",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 7,
+				"y": 0.00,
+				"z": -6
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": -90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "StartPoint",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 0.00,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "HallWay",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -10,
+				"y": 0.00,
+				"z": -9.3
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 180.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ExtraRoom",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 10,
+				"y": 0.00,
+				"z": 0.5
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "SecondMainEntrance",
+			"FloorNumber": 1,
+			"Position": {
+				"x": 11,
+				"y": 0.00,
+				"z": 0.00
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}
